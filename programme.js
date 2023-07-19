@@ -1,7 +1,4 @@
-// let x = 1 // déclarattion variable (intialisation)
-// while (x <= 100) { // condition
-// 	console.log(x);
-// 	x++ // incrémentation
-
-// }
-
+let prenom = 'Hajar';
+let nom = "Aslan";
+console.log(`Je m'appelle ${prenom}
+et mon nom est ${nom}`);
