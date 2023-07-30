@@ -1,4 +1,5 @@
-let prenom = 'Hajar';
-let nom = "Aslan";
-console.log(`Je m'appelle ${prenom}
-et mon nom est ${nom}`);
+let valeur = 42;
+ {
+	let valeur = 12;
+}
+console.log(valeur)
